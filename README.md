@@ -38,8 +38,6 @@ Here are some screenshots of Learn Sphere:
 
 *Instructor Courses Mobile*
 
-![course_uploading](https://github.com/VishuBanotra/LearnSphere/assets/111637458/e388e2eb-68a0-46de-bf21-57a825f1e36d)
-*Course Upload Component*
 
 ## Technologies Used
 
